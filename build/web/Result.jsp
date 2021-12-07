@@ -16,7 +16,7 @@
     </head>
     <body>
         <div class="container">
-        <h1 style="text-align:center"><font size="7">Your Result</h1>
+        <h1 style="text-align:center"><font size="7">Your Result ::: </h1>
          <div class="well">
         <%
             int correct=0;
